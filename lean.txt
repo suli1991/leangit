@@ -3,6 +3,6 @@ qwer
 
 master
 
-feature1
+feature
 
 dev
